@@ -7,8 +7,8 @@ Repository of Sriwijaya University SQA 2nd Group, 2019.
 * Danny Matthew Saputra (Lecturer) - [LinkedIn](https://www.linkedin.com/in/dannysaputra/)
 * Friska
 * Riska Wati Savitri
-* Nurmasita Anawula MP
-* Muhammad Irfan Triananto Putra
+* Nurmasita Anawula MP - [LinkedIn](https://www.linkedin.com/in/nurmasita-anawula-mp-039783164/), [Instagram](http://instagram.com/ana.wulaa)
+* Muhammad Irfan Triananto Putra - [LinkedIn](https://www.linkedin.com/in/trianantoputra/)
 
 ## Courses (FTI44115):
 book by Daniel Galin: [Software Quality Assurance, From theory to implementation](https://www.amazon.com/Software-Quality-Assurance-Theory-Implementation/dp/0201709457)
