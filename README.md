@@ -2,7 +2,7 @@
 
 Repository of Sriwijaya University SQA 2nd Group, 2019.
 
-##Team members:
+## Team members:
 
 * Danny Matthew Saputra (Lecturer) - [LinkedIn](https://www.linkedin.com/in/dannysaputra/)
 * Friska
