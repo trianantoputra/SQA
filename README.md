@@ -6,7 +6,7 @@ Repository of Sriwijaya University SQA 2nd Group, 2019.
 
 * Danny Matthew Saputra (Lecturer) - [LinkedIn](https://www.linkedin.com/in/dannysaputra/)
 * Friska - [LinkedIn](https://www.linkedin.com/in/friska-saryono-1902b0198/), [Instagram](https://www.instagram.com/friskadmyn12/)
-* Riska Wati Savitri
+* Riska Wati Savitri - [LinkedIn](https://www.linkedin.com/in/riska-wati-savitri-785104198/), [Instagram](https://www.instagram.com/savitri59/)
 * Nurmasita Anawula MP - [LinkedIn](https://www.linkedin.com/in/nurmasita-anawula-mp-039783164/), [Instagram](http://instagram.com/ana.wulaa)
 * Muhammad Irfan Triananto Putra - [LinkedIn](https://www.linkedin.com/in/trianantoputra/)
 
